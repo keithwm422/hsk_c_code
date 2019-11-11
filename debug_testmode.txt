@@ -1,0 +1,7036 @@
+Destination #? 	3
+What command #? 249
+What length? (A nonzero length may produce an error) 	2
+Attach 'length' number of bytes to the end of the header? (y/n) y
+Press enter after inputting each byte as characters:
+250
+2
+The computed checksum is 10. Enter this value, or input a different checksum to check protocol reliability.
+10
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 250 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 249 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 248 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 247 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 246 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 245 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 244 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 243 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 242 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 241 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 240 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 239 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 238 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 237 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 236 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 235 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 234 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 233 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 232 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 231 2 
+
+Error received: Type -3
+
+ERROR LOG: Found 1 error(s)
+Error #1: Origin device #0
+Error #1: Intended for device #16
+Error #1: With the attached command #0
+Error #1: With error code -3
+
+Resetting downstream devices...
+
+Standby mode? (Type 0 for no delay, or enter an integer # of seconds)
+100
+Error received: Type -3
+
+ERROR LOG: Found 2 error(s)
+Error #1: Origin device #0
+Error #1: Intended for device #16
+Error #1: With the attached command #0
+Error #1: With error code -3
+
+Error #2: Origin device #0
+Error #2: Intended for device #16
+Error #2: With the attached command #0
+Error #2: With error code -3
+
+Resetting downstream devices...
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 220 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 219 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 218 2 
+
+Error received: Type -3
+
+ERROR LOG: Found 3 error(s)
+Error #1: Origin device #0
+Error #1: Intended for device #16
+Error #1: With the attached command #0
+Error #1: With error code -3
+
+Error #2: Origin device #0
+Error #2: Intended for device #16
+Error #2: With the attached command #0
+Error #2: With error code -3
+
+Error #3: Origin device #0
+Error #3: Intended for device #16
+Error #3: With the attached command #0
+Error #3: With error code -3
+
+Resetting downstream devices...
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 216 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 215 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 214 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 213 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 212 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 211 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 210 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 209 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 208 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 207 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 206 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 205 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 204 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 203 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 202 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 201 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 200 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 199 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 198 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 197 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 196 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 195 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 194 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 193 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 192 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 191 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 190 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 189 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 188 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 187 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 186 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 185 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 184 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 183 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 182 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 181 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 180 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 179 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 178 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 177 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 176 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 175 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 174 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 173 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 172 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 171 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 170 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 169 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 168 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 167 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 166 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 165 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 164 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 163 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 162 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 161 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 160 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 159 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 158 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 157 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 156 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 155 2 
+
+Error received: Type -3
+
+ERROR LOG: Found 4 error(s)
+Error #1: Origin device #0
+Error #1: Intended for device #16
+Error #1: With the attached command #0
+Error #1: With error code -3
+
+Error #2: Origin device #0
+Error #2: Intended for device #16
+Error #2: With the attached command #0
+Error #2: With error code -3
+
+Error #3: Origin device #0
+Error #3: Intended for device #16
+Error #3: With the attached command #0
+Error #3: With error code -3
+
+Error #4: Origin device #0
+Error #4: Intended for device #16
+Error #4: With the attached command #0
+Error #4: With error code -3
+
+Resetting downstream devices...
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 153 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 152 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 151 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 150 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 149 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 148 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 147 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 146 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 145 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 144 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 143 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 142 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 141 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 140 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 139 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 138 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 137 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 136 2 
+
+Error received: Type -3
+
+ERROR LOG: Found 5 error(s)
+Error #1: Origin device #0
+Error #1: Intended for device #16
+Error #1: With the attached command #0
+Error #1: With error code -3
+
+Error #2: Origin device #0
+Error #2: Intended for device #16
+Error #2: With the attached command #0
+Error #2: With error code -3
+
+Error #3: Origin device #0
+Error #3: Intended for device #16
+Error #3: With the attached command #0
+Error #3: With error code -3
+
+Error #4: Origin device #0
+Error #4: Intended for device #16
+Error #4: With the attached command #0
+Error #4: With error code -3
+
+Error #5: Origin device #0
+Error #5: Intended for device #16
+Error #5: With the attached command #0
+Error #5: With error code -3
+
+Resetting downstream devices...
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 134 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 133 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 132 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 131 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 130 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 129 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 128 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 127 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 126 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 125 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 124 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 123 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 122 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 121 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 120 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 119 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 118 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 117 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 116 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 115 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 114 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 113 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 112 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 111 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 110 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 109 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 108 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 107 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 106 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 105 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 104 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 103 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 102 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 101 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 100 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 99 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 98 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 97 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 96 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 95 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 94 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 93 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 92 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 91 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 90 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 89 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 88 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 87 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 86 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 85 2 
+
+Error received: Type -3
+
+ERROR LOG: Found 6 error(s)
+Error #1: Origin device #0
+Error #1: Intended for device #16
+Error #1: With the attached command #0
+Error #1: With error code -3
+
+Error #2: Origin device #0
+Error #2: Intended for device #16
+Error #2: With the attached command #0
+Error #2: With error code -3
+
+Error #3: Origin device #0
+Error #3: Intended for device #16
+Error #3: With the attached command #0
+Error #3: With error code -3
+
+Error #4: Origin device #0
+Error #4: Intended for device #16
+Error #4: With the attached command #0
+Error #4: With error code -3
+
+Error #5: Origin device #0
+Error #5: Intended for device #16
+Error #5: With the attached command #0
+Error #5: With error code -3
+
+Error #6: Origin device #0
+Error #6: Intended for device #16
+Error #6: With the attached command #0
+Error #6: With error code -3
+
+Resetting downstream devices...
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 83 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 82 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 81 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 80 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 79 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 78 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 77 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 76 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 75 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 74 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 73 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 72 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 71 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 70 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 69 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 68 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 67 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 66 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 65 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 64 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 63 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 62 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 61 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 60 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 59 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 58 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 57 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 56 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 55 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 54 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 53 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 52 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 51 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 50 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 49 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 48 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 47 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 46 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 45 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 44 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 43 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 42 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 41 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 40 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 39 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 38 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 37 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 36 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 35 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 34 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 33 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 32 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 31 2 
+
+Error received: Type -3
+
+ERROR LOG: Found 7 error(s)
+Error #1: Origin device #0
+Error #1: Intended for device #16
+Error #1: With the attached command #0
+Error #1: With error code -3
+
+Error #2: Origin device #0
+Error #2: Intended for device #16
+Error #2: With the attached command #0
+Error #2: With error code -3
+
+Error #3: Origin device #0
+Error #3: Intended for device #16
+Error #3: With the attached command #0
+Error #3: With error code -3
+
+Error #4: Origin device #0
+Error #4: Intended for device #16
+Error #4: With the attached command #0
+Error #4: With error code -3
+
+Error #5: Origin device #0
+Error #5: Intended for device #16
+Error #5: With the attached command #0
+Error #5: With error code -3
+
+Error #6: Origin device #0
+Error #6: Intended for device #16
+Error #6: With the attached command #0
+Error #6: With error code -3
+
+Error #7: Origin device #0
+Error #7: Intended for device #16
+Error #7: With the attached command #0
+Error #7: With error code -3
+
+Resetting downstream devices...
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 29 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 28 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 27 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 26 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 25 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 24 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 23 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 22 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 21 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 20 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 19 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 18 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 17 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 16 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 15 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 14 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 13 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 12 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 11 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 10 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 9 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 8 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 7 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 6 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 5 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 4 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 3 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 2 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 1 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 0 2 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 255 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 254 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 253 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 252 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 251 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 250 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 249 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 248 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 247 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 246 1 
+
+Error received: Type -3
+
+ERROR LOG: Found 8 error(s)
+Error #1: Origin device #0
+Error #1: Intended for device #16
+Error #1: With the attached command #0
+Error #1: With error code -3
+
+Error #2: Origin device #0
+Error #2: Intended for device #16
+Error #2: With the attached command #0
+Error #2: With error code -3
+
+Error #3: Origin device #0
+Error #3: Intended for device #16
+Error #3: With the attached command #0
+Error #3: With error code -3
+
+Error #4: Origin device #0
+Error #4: Intended for device #16
+Error #4: With the attached command #0
+Error #4: With error code -3
+
+Error #5: Origin device #0
+Error #5: Intended for device #16
+Error #5: With the attached command #0
+Error #5: With error code -3
+
+Error #6: Origin device #0
+Error #6: Intended for device #16
+Error #6: With the attached command #0
+Error #6: With error code -3
+
+Error #7: Origin device #0
+Error #7: Intended for device #16
+Error #7: With the attached command #0
+Error #7: With error code -3
+
+Error #8: Origin device #0
+Error #8: Intended for device #16
+Error #8: With the attached command #0
+Error #8: With error code -3
+
+Resetting downstream devices...
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 244 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 243 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 242 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 241 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 240 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 239 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 238 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 237 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 236 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 235 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 234 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 233 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 232 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 231 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 230 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 229 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 228 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 227 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 226 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 225 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 224 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 223 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 222 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 221 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 220 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 219 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 218 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 217 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 216 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 215 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 214 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 213 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 212 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 211 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 210 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 209 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 208 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 207 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 206 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 205 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 204 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 203 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 202 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 201 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 200 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 199 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 198 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 197 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 196 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 195 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 194 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 193 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 192 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 191 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 190 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 189 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 188 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 187 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 186 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 185 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 184 1 
+
+Error received: Type -3
+
+ERROR LOG: Found 9 error(s)
+Error #1: Origin device #0
+Error #1: Intended for device #16
+Error #1: With the attached command #0
+Error #1: With error code -3
+
+Error #2: Origin device #0
+Error #2: Intended for device #16
+Error #2: With the attached command #0
+Error #2: With error code -3
+
+Error #3: Origin device #0
+Error #3: Intended for device #16
+Error #3: With the attached command #0
+Error #3: With error code -3
+
+Error #4: Origin device #0
+Error #4: Intended for device #16
+Error #4: With the attached command #0
+Error #4: With error code -3
+
+Error #5: Origin device #0
+Error #5: Intended for device #16
+Error #5: With the attached command #0
+Error #5: With error code -3
+
+Error #6: Origin device #0
+Error #6: Intended for device #16
+Error #6: With the attached command #0
+Error #6: With error code -3
+
+Error #7: Origin device #0
+Error #7: Intended for device #16
+Error #7: With the attached command #0
+Error #7: With error code -3
+
+Error #8: Origin device #0
+Error #8: Intended for device #16
+Error #8: With the attached command #0
+Error #8: With error code -3
+
+Error #9: Origin device #0
+Error #9: Intended for device #16
+Error #9: With the attached command #0
+Error #9: With error code -3
+
+Resetting downstream devices...
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 182 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 181 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 180 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 179 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 178 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 177 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 176 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 175 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 174 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 173 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 172 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 171 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 170 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 169 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 168 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 167 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 166 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 165 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 164 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 163 1 
+
+Error received: Type -3
+
+ERROR LOG: Found 10 error(s)
+Error #1: Origin device #0
+Error #1: Intended for device #16
+Error #1: With the attached command #0
+Error #1: With error code -3
+
+Error #2: Origin device #0
+Error #2: Intended for device #16
+Error #2: With the attached command #0
+Error #2: With error code -3
+
+Error #3: Origin device #0
+Error #3: Intended for device #16
+Error #3: With the attached command #0
+Error #3: With error code -3
+
+Error #4: Origin device #0
+Error #4: Intended for device #16
+Error #4: With the attached command #0
+Error #4: With error code -3
+
+Error #5: Origin device #0
+Error #5: Intended for device #16
+Error #5: With the attached command #0
+Error #5: With error code -3
+
+Error #6: Origin device #0
+Error #6: Intended for device #16
+Error #6: With the attached command #0
+Error #6: With error code -3
+
+Error #7: Origin device #0
+Error #7: Intended for device #16
+Error #7: With the attached command #0
+Error #7: With error code -3
+
+Error #8: Origin device #0
+Error #8: Intended for device #16
+Error #8: With the attached command #0
+Error #8: With error code -3
+
+Error #9: Origin device #0
+Error #9: Intended for device #16
+Error #9: With the attached command #0
+Error #9: With error code -3
+
+Error #10: Origin device #0
+Error #10: Intended for device #16
+Error #10: With the attached command #0
+Error #10: With error code -3
+
+Resetting downstream devices...
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 161 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 160 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 159 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 158 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 157 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 156 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 155 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 154 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 153 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 152 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 151 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 150 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 149 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 148 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 147 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 146 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 145 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 144 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 143 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 142 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 141 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 140 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 139 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 138 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 137 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 136 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 135 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 134 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 133 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 132 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 131 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 130 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 129 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 128 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 127 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 126 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 125 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 124 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 123 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 122 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 121 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 120 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 119 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 118 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 117 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 116 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 115 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 114 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 113 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 112 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 111 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 110 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 109 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 108 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 107 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 106 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 105 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 104 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 103 1 
+
+Error received: Type -3
+
+ERROR LOG: Found 11 error(s)
+Error #1: Origin device #0
+Error #1: Intended for device #16
+Error #1: With the attached command #0
+Error #1: With error code -3
+
+Error #2: Origin device #0
+Error #2: Intended for device #16
+Error #2: With the attached command #0
+Error #2: With error code -3
+
+Error #3: Origin device #0
+Error #3: Intended for device #16
+Error #3: With the attached command #0
+Error #3: With error code -3
+
+Error #4: Origin device #0
+Error #4: Intended for device #16
+Error #4: With the attached command #0
+Error #4: With error code -3
+
+Error #5: Origin device #0
+Error #5: Intended for device #16
+Error #5: With the attached command #0
+Error #5: With error code -3
+
+Error #6: Origin device #0
+Error #6: Intended for device #16
+Error #6: With the attached command #0
+Error #6: With error code -3
+
+Error #7: Origin device #0
+Error #7: Intended for device #16
+Error #7: With the attached command #0
+Error #7: With error code -3
+
+Error #8: Origin device #0
+Error #8: Intended for device #16
+Error #8: With the attached command #0
+Error #8: With error code -3
+
+Error #9: Origin device #0
+Error #9: Intended for device #16
+Error #9: With the attached command #0
+Error #9: With error code -3
+
+Error #10: Origin device #0
+Error #10: Intended for device #16
+Error #10: With the attached command #0
+Error #10: With error code -3
+
+Error #11: Origin device #0
+Error #11: Intended for device #16
+Error #11: With the attached command #0
+Error #11: With error code -3
+
+Resetting downstream devices...
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 101 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 100 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 99 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 98 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 97 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 96 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 95 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 94 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 93 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 92 1 
+
+Error received: Type -3
+
+ERROR LOG: Found 12 error(s)
+Error #1: Origin device #0
+Error #1: Intended for device #16
+Error #1: With the attached command #0
+Error #1: With error code -3
+
+Error #2: Origin device #0
+Error #2: Intended for device #16
+Error #2: With the attached command #0
+Error #2: With error code -3
+
+Error #3: Origin device #0
+Error #3: Intended for device #16
+Error #3: With the attached command #0
+Error #3: With error code -3
+
+Error #4: Origin device #0
+Error #4: Intended for device #16
+Error #4: With the attached command #0
+Error #4: With error code -3
+
+Error #5: Origin device #0
+Error #5: Intended for device #16
+Error #5: With the attached command #0
+Error #5: With error code -3
+
+Error #6: Origin device #0
+Error #6: Intended for device #16
+Error #6: With the attached command #0
+Error #6: With error code -3
+
+Error #7: Origin device #0
+Error #7: Intended for device #16
+Error #7: With the attached command #0
+Error #7: With error code -3
+
+Error #8: Origin device #0
+Error #8: Intended for device #16
+Error #8: With the attached command #0
+Error #8: With error code -3
+
+Error #9: Origin device #0
+Error #9: Intended for device #16
+Error #9: With the attached command #0
+Error #9: With error code -3
+
+Error #10: Origin device #0
+Error #10: Intended for device #16
+Error #10: With the attached command #0
+Error #10: With error code -3
+
+Error #11: Origin device #0
+Error #11: Intended for device #16
+Error #11: With the attached command #0
+Error #11: With error code -3
+
+Error #12: Origin device #0
+Error #12: Intended for device #16
+Error #12: With the attached command #0
+Error #12: With error code -3
+
+Resetting downstream devices...
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 90 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 89 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 88 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 87 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 86 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 85 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 84 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 83 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 82 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 81 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 80 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 79 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 78 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 77 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 76 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 75 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 74 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 73 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 72 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 71 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 70 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 69 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 68 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 67 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 66 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 65 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 64 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 63 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 62 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 61 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 60 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 59 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 58 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 57 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 56 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 55 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 54 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 53 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 52 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 51 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 50 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 49 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 48 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 47 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 46 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 45 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 44 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 43 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 42 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 41 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 40 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 39 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 38 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 37 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 36 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 35 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 34 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 33 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 32 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 31 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 30 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 29 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 28 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 27 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 26 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 25 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 24 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 23 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 22 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 21 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 20 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 19 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 18 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 17 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 16 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 15 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 14 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 13 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 12 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 11 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 10 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 9 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 8 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 7 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 6 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 5 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 4 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 3 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 2 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 1 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 0 1 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 255 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 254 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 253 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 252 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 251 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 250 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 249 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 248 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 247 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 246 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 245 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 244 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 243 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 242 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 241 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 240 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 239 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 238 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 237 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 236 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 235 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 234 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 233 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 232 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 231 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 230 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 229 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 228 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 227 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 226 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 225 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 224 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 223 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 222 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 221 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 220 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 219 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 218 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 217 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 216 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 215 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 214 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 213 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 212 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 211 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 210 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 209 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 208 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 207 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 206 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 205 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 204 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 203 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 202 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 201 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 200 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 199 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 198 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 197 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 196 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 195 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 194 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 193 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 192 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 191 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 190 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 189 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 188 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 187 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 186 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 185 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 184 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 183 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 182 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 181 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 180 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 179 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 178 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 177 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 176 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 175 0 
+
+Error received: Type -3
+
+ERROR LOG: Found 13 error(s)
+Error #1: Origin device #0
+Error #1: Intended for device #16
+Error #1: With the attached command #0
+Error #1: With error code -3
+
+Error #2: Origin device #0
+Error #2: Intended for device #16
+Error #2: With the attached command #0
+Error #2: With error code -3
+
+Error #3: Origin device #0
+Error #3: Intended for device #16
+Error #3: With the attached command #0
+Error #3: With error code -3
+
+Error #4: Origin device #0
+Error #4: Intended for device #16
+Error #4: With the attached command #0
+Error #4: With error code -3
+
+Error #5: Origin device #0
+Error #5: Intended for device #16
+Error #5: With the attached command #0
+Error #5: With error code -3
+
+Error #6: Origin device #0
+Error #6: Intended for device #16
+Error #6: With the attached command #0
+Error #6: With error code -3
+
+Error #7: Origin device #0
+Error #7: Intended for device #16
+Error #7: With the attached command #0
+Error #7: With error code -3
+
+Error #8: Origin device #0
+Error #8: Intended for device #16
+Error #8: With the attached command #0
+Error #8: With error code -3
+
+Error #9: Origin device #0
+Error #9: Intended for device #16
+Error #9: With the attached command #0
+Error #9: With error code -3
+
+Error #10: Origin device #0
+Error #10: Intended for device #16
+Error #10: With the attached command #0
+Error #10: With error code -3
+
+Error #11: Origin device #0
+Error #11: Intended for device #16
+Error #11: With the attached command #0
+Error #11: With error code -3
+
+Error #12: Origin device #0
+Error #12: Intended for device #16
+Error #12: With the attached command #0
+Error #12: With error code -3
+
+Error #13: Origin device #0
+Error #13: Intended for device #16
+Error #13: With the attached command #0
+Error #13: With error code -3
+
+Resetting downstream devices...
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 173 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 172 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 171 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 170 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 169 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 168 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 167 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 166 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 165 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 164 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 163 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 162 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 161 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 160 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 159 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 158 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 157 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 156 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 155 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 154 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 153 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 152 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 151 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 150 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 149 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 148 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 147 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 146 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 145 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 144 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 143 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 142 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 141 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 140 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 139 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 138 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 137 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 136 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 135 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 134 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 133 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 132 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 131 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 130 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 129 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 128 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 127 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 126 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 125 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 124 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 123 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 122 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 121 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 120 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 119 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 118 0 
+
+Error received: Type -3
+
+ERROR LOG: Found 14 error(s)
+Error #1: Origin device #0
+Error #1: Intended for device #16
+Error #1: With the attached command #0
+Error #1: With error code -3
+
+Error #2: Origin device #0
+Error #2: Intended for device #16
+Error #2: With the attached command #0
+Error #2: With error code -3
+
+Error #3: Origin device #0
+Error #3: Intended for device #16
+Error #3: With the attached command #0
+Error #3: With error code -3
+
+Error #4: Origin device #0
+Error #4: Intended for device #16
+Error #4: With the attached command #0
+Error #4: With error code -3
+
+Error #5: Origin device #0
+Error #5: Intended for device #16
+Error #5: With the attached command #0
+Error #5: With error code -3
+
+Error #6: Origin device #0
+Error #6: Intended for device #16
+Error #6: With the attached command #0
+Error #6: With error code -3
+
+Error #7: Origin device #0
+Error #7: Intended for device #16
+Error #7: With the attached command #0
+Error #7: With error code -3
+
+Error #8: Origin device #0
+Error #8: Intended for device #16
+Error #8: With the attached command #0
+Error #8: With error code -3
+
+Error #9: Origin device #0
+Error #9: Intended for device #16
+Error #9: With the attached command #0
+Error #9: With error code -3
+
+Error #10: Origin device #0
+Error #10: Intended for device #16
+Error #10: With the attached command #0
+Error #10: With error code -3
+
+Error #11: Origin device #0
+Error #11: Intended for device #16
+Error #11: With the attached command #0
+Error #11: With error code -3
+
+Error #12: Origin device #0
+Error #12: Intended for device #16
+Error #12: With the attached command #0
+Error #12: With error code -3
+
+Error #13: Origin device #0
+Error #13: Intended for device #16
+Error #13: With the attached command #0
+Error #13: With error code -3
+
+Error #14: Origin device #0
+Error #14: Intended for device #16
+Error #14: With the attached command #0
+Error #14: With error code -3
+
+Resetting downstream devices...
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 116 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 115 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 114 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 113 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 112 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 111 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 110 0 
+
+Error received: Type -3
+
+ERROR LOG: Found 15 error(s)
+Error #1: Origin device #0
+Error #1: Intended for device #16
+Error #1: With the attached command #0
+Error #1: With error code -3
+
+Error #2: Origin device #0
+Error #2: Intended for device #16
+Error #2: With the attached command #0
+Error #2: With error code -3
+
+Error #3: Origin device #0
+Error #3: Intended for device #16
+Error #3: With the attached command #0
+Error #3: With error code -3
+
+Error #4: Origin device #0
+Error #4: Intended for device #16
+Error #4: With the attached command #0
+Error #4: With error code -3
+
+Error #5: Origin device #0
+Error #5: Intended for device #16
+Error #5: With the attached command #0
+Error #5: With error code -3
+
+Error #6: Origin device #0
+Error #6: Intended for device #16
+Error #6: With the attached command #0
+Error #6: With error code -3
+
+Error #7: Origin device #0
+Error #7: Intended for device #16
+Error #7: With the attached command #0
+Error #7: With error code -3
+
+Error #8: Origin device #0
+Error #8: Intended for device #16
+Error #8: With the attached command #0
+Error #8: With error code -3
+
+Error #9: Origin device #0
+Error #9: Intended for device #16
+Error #9: With the attached command #0
+Error #9: With error code -3
+
+Error #10: Origin device #0
+Error #10: Intended for device #16
+Error #10: With the attached command #0
+Error #10: With error code -3
+
+Error #11: Origin device #0
+Error #11: Intended for device #16
+Error #11: With the attached command #0
+Error #11: With error code -3
+
+Error #12: Origin device #0
+Error #12: Intended for device #16
+Error #12: With the attached command #0
+Error #12: With error code -3
+
+Error #13: Origin device #0
+Error #13: Intended for device #16
+Error #13: With the attached command #0
+Error #13: With error code -3
+
+Error #14: Origin device #0
+Error #14: Intended for device #16
+Error #14: With the attached command #0
+Error #14: With error code -3
+
+Error #15: Origin device #0
+Error #15: Intended for device #16
+Error #15: With the attached command #0
+Error #15: With error code -3
+
+Resetting downstream devices...
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 108 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 107 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 106 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 105 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 104 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 103 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 102 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 101 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 100 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 99 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 98 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 97 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 96 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 95 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 94 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 93 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 92 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 91 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 90 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 89 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 88 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 87 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 86 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 85 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 84 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 83 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 82 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 81 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 80 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 79 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 78 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 77 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 76 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 75 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 74 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 73 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 72 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 71 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 70 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 69 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 68 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 67 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 66 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 65 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 64 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 63 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 62 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 61 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 60 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 59 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 58 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 57 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 56 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 55 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 54 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 53 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 52 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 51 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 50 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 49 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 48 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 47 0 
+
+Error received: Type -3
+
+ERROR LOG: Found 16 error(s)
+Error #1: Origin device #0
+Error #1: Intended for device #16
+Error #1: With the attached command #0
+Error #1: With error code -3
+
+Error #2: Origin device #0
+Error #2: Intended for device #16
+Error #2: With the attached command #0
+Error #2: With error code -3
+
+Error #3: Origin device #0
+Error #3: Intended for device #16
+Error #3: With the attached command #0
+Error #3: With error code -3
+
+Error #4: Origin device #0
+Error #4: Intended for device #16
+Error #4: With the attached command #0
+Error #4: With error code -3
+
+Error #5: Origin device #0
+Error #5: Intended for device #16
+Error #5: With the attached command #0
+Error #5: With error code -3
+
+Error #6: Origin device #0
+Error #6: Intended for device #16
+Error #6: With the attached command #0
+Error #6: With error code -3
+
+Error #7: Origin device #0
+Error #7: Intended for device #16
+Error #7: With the attached command #0
+Error #7: With error code -3
+
+Error #8: Origin device #0
+Error #8: Intended for device #16
+Error #8: With the attached command #0
+Error #8: With error code -3
+
+Error #9: Origin device #0
+Error #9: Intended for device #16
+Error #9: With the attached command #0
+Error #9: With error code -3
+
+Error #10: Origin device #0
+Error #10: Intended for device #16
+Error #10: With the attached command #0
+Error #10: With error code -3
+
+Error #11: Origin device #0
+Error #11: Intended for device #16
+Error #11: With the attached command #0
+Error #11: With error code -3
+
+Error #12: Origin device #0
+Error #12: Intended for device #16
+Error #12: With the attached command #0
+Error #12: With error code -3
+
+Error #13: Origin device #0
+Error #13: Intended for device #16
+Error #13: With the attached command #0
+Error #13: With error code -3
+
+Error #14: Origin device #0
+Error #14: Intended for device #16
+Error #14: With the attached command #0
+Error #14: With error code -3
+
+Error #15: Origin device #0
+Error #15: Intended for device #16
+Error #15: With the attached command #0
+Error #15: With error code -3
+
+Error #16: Origin device #0
+Error #16: Intended for device #16
+Error #16: With the attached command #0
+Error #16: With error code -3
+
+Resetting downstream devices...
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 45 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 44 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 43 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 42 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 41 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 40 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 39 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 38 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 37 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 36 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 35 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 34 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 33 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 32 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 31 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 30 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 29 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 28 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 27 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 26 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 25 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 24 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 23 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 22 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 21 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 20 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 19 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 18 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 17 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 16 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 15 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 14 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 13 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 12 0 
+
+Error received: Type -3
+
+ERROR LOG: Found 17 error(s)
+Error #1: Origin device #0
+Error #1: Intended for device #16
+Error #1: With the attached command #0
+Error #1: With error code -3
+
+Error #2: Origin device #0
+Error #2: Intended for device #16
+Error #2: With the attached command #0
+Error #2: With error code -3
+
+Error #3: Origin device #0
+Error #3: Intended for device #16
+Error #3: With the attached command #0
+Error #3: With error code -3
+
+Error #4: Origin device #0
+Error #4: Intended for device #16
+Error #4: With the attached command #0
+Error #4: With error code -3
+
+Error #5: Origin device #0
+Error #5: Intended for device #16
+Error #5: With the attached command #0
+Error #5: With error code -3
+
+Error #6: Origin device #0
+Error #6: Intended for device #16
+Error #6: With the attached command #0
+Error #6: With error code -3
+
+Error #7: Origin device #0
+Error #7: Intended for device #16
+Error #7: With the attached command #0
+Error #7: With error code -3
+
+Error #8: Origin device #0
+Error #8: Intended for device #16
+Error #8: With the attached command #0
+Error #8: With error code -3
+
+Error #9: Origin device #0
+Error #9: Intended for device #16
+Error #9: With the attached command #0
+Error #9: With error code -3
+
+Error #10: Origin device #0
+Error #10: Intended for device #16
+Error #10: With the attached command #0
+Error #10: With error code -3
+
+Error #11: Origin device #0
+Error #11: Intended for device #16
+Error #11: With the attached command #0
+Error #11: With error code -3
+
+Error #12: Origin device #0
+Error #12: Intended for device #16
+Error #12: With the attached command #0
+Error #12: With error code -3
+
+Error #13: Origin device #0
+Error #13: Intended for device #16
+Error #13: With the attached command #0
+Error #13: With error code -3
+
+Error #14: Origin device #0
+Error #14: Intended for device #16
+Error #14: With the attached command #0
+Error #14: With error code -3
+
+Error #15: Origin device #0
+Error #15: Intended for device #16
+Error #15: With the attached command #0
+Error #15: With error code -3
+
+Error #16: Origin device #0
+Error #16: Intended for device #16
+Error #16: With the attached command #0
+Error #16: With error code -3
+
+Error #17: Origin device #0
+Error #17: Intended for device #16
+Error #17: With the attached command #0
+Error #17: With error code -3
+
+Resetting downstream devices...
+
+Error received: Type -3
+
+ERROR LOG: Found 18 error(s)
+Error #1: Origin device #0
+Error #1: Intended for device #16
+Error #1: With the attached command #0
+Error #1: With error code -3
+
+Error #2: Origin device #0
+Error #2: Intended for device #16
+Error #2: With the attached command #0
+Error #2: With error code -3
+
+Error #3: Origin device #0
+Error #3: Intended for device #16
+Error #3: With the attached command #0
+Error #3: With error code -3
+
+Error #4: Origin device #0
+Error #4: Intended for device #16
+Error #4: With the attached command #0
+Error #4: With error code -3
+
+Error #5: Origin device #0
+Error #5: Intended for device #16
+Error #5: With the attached command #0
+Error #5: With error code -3
+
+Error #6: Origin device #0
+Error #6: Intended for device #16
+Error #6: With the attached command #0
+Error #6: With error code -3
+
+Error #7: Origin device #0
+Error #7: Intended for device #16
+Error #7: With the attached command #0
+Error #7: With error code -3
+
+Error #8: Origin device #0
+Error #8: Intended for device #16
+Error #8: With the attached command #0
+Error #8: With error code -3
+
+Error #9: Origin device #0
+Error #9: Intended for device #16
+Error #9: With the attached command #0
+Error #9: With error code -3
+
+Error #10: Origin device #0
+Error #10: Intended for device #16
+Error #10: With the attached command #0
+Error #10: With error code -3
+
+Error #11: Origin device #0
+Error #11: Intended for device #16
+Error #11: With the attached command #0
+Error #11: With error code -3
+
+Error #12: Origin device #0
+Error #12: Intended for device #16
+Error #12: With the attached command #0
+Error #12: With error code -3
+
+Error #13: Origin device #0
+Error #13: Intended for device #16
+Error #13: With the attached command #0
+Error #13: With error code -3
+
+Error #14: Origin device #0
+Error #14: Intended for device #16
+Error #14: With the attached command #0
+Error #14: With error code -3
+
+Error #15: Origin device #0
+Error #15: Intended for device #16
+Error #15: With the attached command #0
+Error #15: With error code -3
+
+Error #16: Origin device #0
+Error #16: Intended for device #16
+Error #16: With the attached command #0
+Error #16: With error code -3
+
+Error #17: Origin device #0
+Error #17: Intended for device #16
+Error #17: With the attached command #0
+Error #17: With error code -3
+
+Error #18: Origin device #0
+Error #18: Intended for device #16
+Error #18: With the attached command #0
+Error #18: With error code -3
+
+Resetting downstream devices...
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 9 0 
+
+Error received: Type -3
+
+ERROR LOG: Found 19 error(s)
+Error #1: Origin device #0
+Error #1: Intended for device #16
+Error #1: With the attached command #0
+Error #1: With error code -3
+
+Error #2: Origin device #0
+Error #2: Intended for device #16
+Error #2: With the attached command #0
+Error #2: With error code -3
+
+Error #3: Origin device #0
+Error #3: Intended for device #16
+Error #3: With the attached command #0
+Error #3: With error code -3
+
+Error #4: Origin device #0
+Error #4: Intended for device #16
+Error #4: With the attached command #0
+Error #4: With error code -3
+
+Error #5: Origin device #0
+Error #5: Intended for device #16
+Error #5: With the attached command #0
+Error #5: With error code -3
+
+Error #6: Origin device #0
+Error #6: Intended for device #16
+Error #6: With the attached command #0
+Error #6: With error code -3
+
+Error #7: Origin device #0
+Error #7: Intended for device #16
+Error #7: With the attached command #0
+Error #7: With error code -3
+
+Error #8: Origin device #0
+Error #8: Intended for device #16
+Error #8: With the attached command #0
+Error #8: With error code -3
+
+Error #9: Origin device #0
+Error #9: Intended for device #16
+Error #9: With the attached command #0
+Error #9: With error code -3
+
+Error #10: Origin device #0
+Error #10: Intended for device #16
+Error #10: With the attached command #0
+Error #10: With error code -3
+
+Error #11: Origin device #0
+Error #11: Intended for device #16
+Error #11: With the attached command #0
+Error #11: With error code -3
+
+Error #12: Origin device #0
+Error #12: Intended for device #16
+Error #12: With the attached command #0
+Error #12: With error code -3
+
+Error #13: Origin device #0
+Error #13: Intended for device #16
+Error #13: With the attached command #0
+Error #13: With error code -3
+
+Error #14: Origin device #0
+Error #14: Intended for device #16
+Error #14: With the attached command #0
+Error #14: With error code -3
+
+Error #15: Origin device #0
+Error #15: Intended for device #16
+Error #15: With the attached command #0
+Error #15: With error code -3
+
+Error #16: Origin device #0
+Error #16: Intended for device #16
+Error #16: With the attached command #0
+Error #16: With error code -3
+
+Error #17: Origin device #0
+Error #17: Intended for device #16
+Error #17: With the attached command #0
+Error #17: With error code -3
+
+Error #18: Origin device #0
+Error #18: Intended for device #16
+Error #18: With the attached command #0
+Error #18: With error code -3
+
+Error #19: Origin device #0
+Error #19: Intended for device #16
+Error #19: With the attached command #0
+Error #19: With error code -3
+
+Resetting downstream devices...
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 7 0 
+
+Error received: Type -3
+
+ERROR LOG: Found 20 error(s)
+Error #1: Origin device #0
+Error #1: Intended for device #16
+Error #1: With the attached command #0
+Error #1: With error code -3
+
+Error #2: Origin device #0
+Error #2: Intended for device #16
+Error #2: With the attached command #0
+Error #2: With error code -3
+
+Error #3: Origin device #0
+Error #3: Intended for device #16
+Error #3: With the attached command #0
+Error #3: With error code -3
+
+Error #4: Origin device #0
+Error #4: Intended for device #16
+Error #4: With the attached command #0
+Error #4: With error code -3
+
+Error #5: Origin device #0
+Error #5: Intended for device #16
+Error #5: With the attached command #0
+Error #5: With error code -3
+
+Error #6: Origin device #0
+Error #6: Intended for device #16
+Error #6: With the attached command #0
+Error #6: With error code -3
+
+Error #7: Origin device #0
+Error #7: Intended for device #16
+Error #7: With the attached command #0
+Error #7: With error code -3
+
+Error #8: Origin device #0
+Error #8: Intended for device #16
+Error #8: With the attached command #0
+Error #8: With error code -3
+
+Error #9: Origin device #0
+Error #9: Intended for device #16
+Error #9: With the attached command #0
+Error #9: With error code -3
+
+Error #10: Origin device #0
+Error #10: Intended for device #16
+Error #10: With the attached command #0
+Error #10: With error code -3
+
+Error #11: Origin device #0
+Error #11: Intended for device #16
+Error #11: With the attached command #0
+Error #11: With error code -3
+
+Error #12: Origin device #0
+Error #12: Intended for device #16
+Error #12: With the attached command #0
+Error #12: With error code -3
+
+Error #13: Origin device #0
+Error #13: Intended for device #16
+Error #13: With the attached command #0
+Error #13: With error code -3
+
+Error #14: Origin device #0
+Error #14: Intended for device #16
+Error #14: With the attached command #0
+Error #14: With error code -3
+
+Error #15: Origin device #0
+Error #15: Intended for device #16
+Error #15: With the attached command #0
+Error #15: With error code -3
+
+Error #16: Origin device #0
+Error #16: Intended for device #16
+Error #16: With the attached command #0
+Error #16: With error code -3
+
+Error #17: Origin device #0
+Error #17: Intended for device #16
+Error #17: With the attached command #0
+Error #17: With error code -3
+
+Error #18: Origin device #0
+Error #18: Intended for device #16
+Error #18: With the attached command #0
+Error #18: With error code -3
+
+Error #19: Origin device #0
+Error #19: Intended for device #16
+Error #19: With the attached command #0
+Error #19: With error code -3
+
+Error #20: Origin device #0
+Error #20: Intended for device #16
+Error #20: With the attached command #0
+Error #20: With error code -3
+
+Resetting downstream devices...
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 5 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 4 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 3 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 2 0 
+
+Reading in packet header... 
+Packet source: 3
+Intended destination: 252
+Command : 249
+Length of data attached: 2
+
+DATA: 1 0 
+
+ 
+
